@@ -1,0 +1,6 @@
+torch>=1.12
+numpy
+pandas
+scikit-learn
+tqdm
+torchattacks>=3.1.0  # optional convenience; scripts include fallback impls if missing
